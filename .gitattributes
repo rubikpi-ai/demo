@@ -1,0 +1,2 @@
+QIM filter=lfs diff=lfs merge=lfs -text
+QIM/RUBIKPi_QIM_models.zip filter=lfs diff=lfs merge=lfs -text
