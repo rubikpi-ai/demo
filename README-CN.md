@@ -329,9 +329,11 @@ b.匀速将 RUBIK Pi 水平旋转 360 度；
 
 c.再次按下操控杆以完成校准。
 
+
+
 ---
 
-## 🚀About RUBIK Pi 3
+## 🚀关于魔方派3（RUBIK Pi 3）
 
 **🔖Shortcuts**
 
@@ -609,3 +611,5 @@ Canonical Ubuntu for Qualcomm platforms*</td>
 获取支持：[support@rubikpi.ai](mailto:support@rubikpi.ai)
 
 Bug反馈： [https://github.com/rubikpi-ai/documentation/issues/new](https://github.com/rubikpi-ai/documentation/issues/new)
+
+
