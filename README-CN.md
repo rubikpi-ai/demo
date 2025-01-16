@@ -367,7 +367,7 @@ RUBIK Pi 3 具有丰富的接口和功能设计， 支持 USB Type-A (1x 2.0, 2x
 <table  style="border-collapse: collapse; border: none;width:100%;">
     <tr>
         <td width="15%"><img src="https://www.thundercomm.com/wp-content/uploads/2024/09/qualcomm-2.png" alt=""></td>
-        <td width="35%"><strong>Qualcomm® Linux®</strong><br><p>基于高通 QCS6490 平台的首款面向开发者的开源硬件</p></td>
+        <td width="35%"><strong>Qualcomm® Linux®</strong><br><p>首个基于高通 QCS6490 平台的开源 Linux</p></td>
         <td width="15%"><img src="https://www.thundercomm.com/wp-content/uploads/2024/09/Compatibility-2.png" alt=""></td>
         <td width="35%"><strong>兼容性</strong><br><p>接口兼容树莓派5官方配件</p></td>
     </tr>
@@ -591,20 +591,6 @@ Qualcomm® Linux®<br>
         <td colspan="2"><img src="https://github.com/rubikpi-ai/documentation/blob/main/media/uhand-2.png?raw=true" width="100%"></td>
     </tr>
 </table>
-</div>
-
-2.AI Camera📷
-
-<div align="center">
-
-<table  style="border-collapse: collapse; border: none;width:100%;">
-    <tr>
-        <td  style="vertical-align: top;">这款基于RUBIK Pi 3的宝丽来相机提供了便捷、智能的成像体验。这款相机在教育应用方面表现优异，尤其在语言学习场景中，让学生能够拍摄日常物品和场景，快速识别图像并呈现分析结果。
-</td>
-        <td width="25%"><img src="https://github.com/rubikpi-ai/documentation/blob/main/media/ai-camera.png?raw=true" width="100%"></td>
-    </tr>   
-</table>
-
 </div>
 
 ---
